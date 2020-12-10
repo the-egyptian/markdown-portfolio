@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hailee Steinfeld Image](https://i.ytimg.com/vi/qBB_QOZNEdc/maxresdefault.jpg)
